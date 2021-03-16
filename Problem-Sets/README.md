@@ -9,5 +9,5 @@
 - Purpose: Learn how to fit a machine learning model, choose best fitting model, test accuracy of model prediction, and understand biases in predictive modeling.
 
 #### Problem-Set-03
-- Data:
-- Purpose 
+- Data: Old Bailey Corpus 
+- Purpose: Apply machine learning techniques to textual data and visualize text corpus to support modeling.
